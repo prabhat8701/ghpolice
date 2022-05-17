@@ -25,11 +25,13 @@ include('header.php');
 	         <th>Case Number</th>
 	        <th ><center>Crime Type</center></th>
 	        <th><center>Statement</center></th>
-	       
 	        <th><center>Action</center></th>
 	    </tr>
 	</thead>
     <tbody>
+    	
+	
+	
     	<?php
 		// The serial number variable
 		$sn=0;

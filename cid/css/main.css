@@ -10,7 +10,10 @@ body {
   font-family: 'Dosis', sans-serif;
   font-size: 17px;
   color: #fff
+ 
 }
+
+
 
 
 .btn {
@@ -110,7 +113,7 @@ h2 {
 }
 
 .navbar-brand img {
-  position: absolute;
+  position: relative;
   top: -35px;
 }
 
@@ -155,11 +158,11 @@ h2 {
 }
 
 .fixed-menu .navbar-brand {
-  height: 60px;
-  margin-top: 0;
-  padding: 0;
-  margin-bottom: 0;
-  width: 125px;
+  min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
 }
 
 .fixed-menu .navbar-brand img {

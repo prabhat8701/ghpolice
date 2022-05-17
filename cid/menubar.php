@@ -1,9 +1,13 @@
 
 	<div class="col-md-12">
-		<div class="panel panel-success">
+	<a class="navbar-brand" href="#"> <img  src="img/logo.png" class="rounded" style="height: 180px; margin-top:1px;"></a>
+		<div class="panel panel-success" style="margin-top:60px;">
+		
 			<div class="panel-heading" style="padding-bottom: 40px;">
-				<center><h3>CRIME RECORDS MANAGEMENT SYSTEM</h3></center>
-
+			
+				<center>
+					
+				<h3>CRIME RECORDS MANAGEMENT SYSTEM</h3></center>
 
 
 					

@@ -17,8 +17,8 @@
 
   </head>
 <body>
-
 <nav class="navbar navbar-inverse" style="background-color:darkslateblue;color: white; margin-bottom: 130px;">
+
   <div class="container-fluid">
     <a class="navbar-brand" href="#"> <img  src="admin/img/logo.png" class="rounded"></a>
    
