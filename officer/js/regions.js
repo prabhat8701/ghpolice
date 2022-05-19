@@ -22,13 +22,13 @@
 	*
 */
 
-var country_arr = new Array("Bono Region", "Ahafo Region","Bono East Region");
+var country_arr = new Array("South Region", "North Region","East Region","West Region");
 var s_a = new Array();
 s_a[0]="";
 s_a[1]=
-"Sunyani Municipal|Sunyani West Municipal|Berekum East District|Berekum West District|Dormaa Central Municipal|Dormaa West District|Dormaa East District|Jaman North District|Jaman South Municipal|Tain District|Banda District|Wenchi Municipal";
-s_a[2]="Tano North Municipal|Tano South Municipal|Asunafo North District|Asunafo South District|Asutifi North District|Asutifi South District";
-s_a[3]="Techiman Municipal|Techiman South District|Kintampo North Municipal|Kintampo South District|Nkoranza South Municipal|Nkoranza North District|Pru East District|Pru West District|Atebubu-Amantin District|Sene East District|Sene West District";
+"chandigarh Municipal|Chandigarh West Municipal|Chandigarh East District|Mohali West District|Mohali Central Municipal|Mohali east District|Punjab East District|Punjab North District|Punjab South Municipal|Patiala District|Ludhiyana District|Phugwara Municipal";
+s_a[2]="Meerut North Municipal|Meerut South Municipal|Delhi North District|Haryana South District|Haryana North District|Punchkula South District";
+s_a[3]="Tripura Municipal|Tripura South District|Zirakpur North Municipal|Zirakpur South District|Rohtak South Municipal|Rohtak North District|Shimla East District|Shimla West District|Dharamshala District|Kasauli East District|Manali West District";
 
 function print_country(country_id){
 	// given the id of the <select> tag as function argument, it inserts <option> tags
